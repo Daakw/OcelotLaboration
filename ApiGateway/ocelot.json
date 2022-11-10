@@ -6,7 +6,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44386
+          "Port": 7263
         }
       ],
       "UpstreamPathTemplate": "/User",
@@ -21,7 +21,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44350
+          "Port": 7153
         }
       ],
       "UpstreamPathTemplate": "/Book",
